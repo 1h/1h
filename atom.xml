@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-03-12T10:10:09.564Z</updated>
+  <updated>2015-03-12T09:57:19.405Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,20 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[新的一天]]></title>
-    <link href="http://yoursite.com/2015/03/12/%E6%96%B0%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
-    <id>http://yoursite.com/2015/03/12/新的一天/</id>
-    <published>2015-03-12T10:03:47.000Z</published>
-    <updated>2015-03-12T10:10:09.564Z</updated>
-    <content type="html"><![CDATA[<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\cat\Documents\GitHub\hexo\source\_posts &#26032;&#30340;&#19968;&#22825;</span><br></pre></td></tr></table></figure>
-]]></content>
-    <summary type="html">
-    <![CDATA[<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="li]]>
-    </summary>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[关于]]></title>
